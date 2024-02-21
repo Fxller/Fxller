@@ -16,9 +16,9 @@ I'm currently focusing on:
 
 ## Contact Me
 
-- 📧 Email: [rossastro2013@gmail.com]
-- 🎮 Steam: [Faller]
-- 📷 Instagram: [@luigi.guidx]
+- 📧 [rossastro2013@gmail.com](Email)
+- 🎮 [https://steamcommunity.com/id/fallerr/](Steam)
+- 📷 [https://www.instagram.com/luigi.guidx/](Instagram)
 
 ## Contributions and Suggestions
 
