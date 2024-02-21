@@ -16,7 +16,6 @@ I'm currently focusing on:
 
 ## Contact Me
 
-- [https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg]
 - 📧 Email: [rossastro2013@gmail.com]
 - 🎮 Steam: [Faller]
 - 📷 Instagram: [@luigi.guidx]
