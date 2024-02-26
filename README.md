@@ -15,10 +15,7 @@ I'm currently focusing on:
 - 📖 Continuous learning to improve my skills
 
 ## Contact Me
-
-- 📧 rossastro2013@gmail.com
-- 🎮 [Steam](https://steamcommunity.com/id/fallerr/)
-- 📷 [Instagram](https://www.instagram.com/luigi.guidx/)
+<a href="https://linktr.ee/luigiguida"><img align="center" src="https://raw.githubusercontent.com/Fxller/Fxller/main/images/Linktree_logo.svg.png" alt="Fxller | LinkTree" width="21px"/></a>
 
 ## Contributions and Suggestions
 
