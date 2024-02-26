@@ -15,7 +15,7 @@ I'm currently focusing on:
 - 📖 Continuous learning to improve my skills
 
 ## Contact Me
-<a href="https://linktr.ee/luigiguida"><img align="left" src="https://raw.githubusercontent.com/Fxller/Fxller/main/images/Linktree_logo.svg.png" alt="Fxller | LinkTree"/></a>
+<a href="https://linktr.ee/luigiguida"><img align="left" src="https://raw.githubusercontent.com/Fxller/Fxller/main/images/linktree.png" alt="Fxller | LinkTree"/></a>
 
 ## Contributions and Suggestions
 
